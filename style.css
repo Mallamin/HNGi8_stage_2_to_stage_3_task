@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Grenze+Gotisch:wght@100&display=swap');
+
+body {
+    background-color: beige;
+}
+
+h1, h2,h3,h4 {
+    font-family: 'Roboto', sans-serif;
+}
+p, li {
+    font-family: 'Roboto', sans-serif;
+}
+
+a {
+    text-decoration: none;
+
+}
+   #sponsors{
+    border-radius: 25%;
+    width: 40px;
+    height: 40px;
+    
+
+  }  
+  img {
+    border-radius: 60%;
+    width: 180px;
+    height: 180px;
+    
+  }
+
+  
+
+  .list-inline {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .list-inline li {
+    display: inline-block;
+  }
+
+
+  .Icons {
+    font-size: 40px;
+    color: black;
+    margin: 0 7px;
+  }
+  
+  .Icons:hover {
+    color: burlywood;
+  }
+  
+ 
+
+
+
+
+
+
+
+
+
